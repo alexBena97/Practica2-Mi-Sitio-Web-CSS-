@@ -31,4 +31,4 @@ body{
     font-size: 20px;
 } 
 
-.importante {font-weight: bold; font-size: 1.3em;}
+a:hover {font-weight: bold; font-size: 1.3em;}
