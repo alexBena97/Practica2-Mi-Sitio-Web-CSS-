@@ -1,0 +1,44 @@
+#navegacion{
+    width: 20%; 
+    background-color: aquamarine;  
+    padding: 20px 20px 20px 20px;
+    float:left;  
+    
+} 
+
+#seccion{  
+    width: 70%; 
+    background-color: aquamarine; 
+    padding: 20px 20px 20px 20px;
+    margin-left: 20px;
+    float:left;
+}  
+
+/*#aparte{ 
+  width: 20%; 
+  background-color: aquamarine; 
+  float: left;
+} */
+
+#piedepagina{ 
+  width: 98%;  
+  margin-top: 20px;
+  background-color: aquamarine;  
+  padding: 10px 10px ;
+  float: left;
+} 
+
+
+.imagenes{  
+ width: 150px; 
+ height: 150px;
+}   
+
+.imagenes2{ 
+ width: 500px; 
+ height: 300px;
+}
+body{ 
+background-image: url("../images/fotoApple.png");
+margin:0.5in;
+}
