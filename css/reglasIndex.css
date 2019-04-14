@@ -3,10 +3,7 @@ h1{
    font-family:Georgia, 'Times New Roman', Times, serif;
    line-height: 50px;   
    font-size: 20px; 
-   border: 1px solid #000000;
-   -moz-border-radius: 9px;
-   -webkit-border-radius:9px;
-   padding: 10px;
+   
 } 
 
 h2{ 
@@ -46,7 +43,9 @@ body{
    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
    line-height: 50px;   
    font-size: 20px;
-}
+} 
+
+.importante {font-weight: bold; font-size: 1.3em;}
 
 
 

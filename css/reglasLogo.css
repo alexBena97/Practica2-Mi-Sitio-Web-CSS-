@@ -29,4 +29,6 @@ body{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     line-height: 50px;   
     font-size: 20px;
-}
+} 
+
+.importante {font-weight: bold; font-size: 1.3em;}

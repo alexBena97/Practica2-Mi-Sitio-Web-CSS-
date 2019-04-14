@@ -4,7 +4,6 @@ h1{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
     line-height: 50px;   
     font-size: 20px;  
-    line-height: 5px; 
 }
 
 .titulos{ 
@@ -33,4 +32,6 @@ h1{
 body{ 
     background-image: url("../images/AndroidvsApple.png");
     margin:0.5in; 
-}
+} 
+
+.importante {font-weight: bold; font-size: 1.3em;}
