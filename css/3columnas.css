@@ -2,7 +2,12 @@
     width: 20%; 
     background-color: aquamarine;  
     padding: 20px 20px 20px 20px;
-    float:left;  
+    float:left;   
+    border: 5px solid #000000;
+    -moz-border-radius: 9px;
+    -webkit-border-radius:9px;
+    padding: 10px; 
+    line-height:  30px;
     
 } 
 
