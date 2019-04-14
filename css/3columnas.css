@@ -11,7 +11,8 @@
     background-color: aquamarine;  
     padding: 20px 20px 20px 20px;
     margin-left: 20px;
-    float:left;
+    float:left;  
+    border: black 10px dashed;
 }  
 
 #aparte{ 
@@ -19,7 +20,8 @@
   margin-left: 20px; 
   margin-right: 5;
   background-color: aquamarine; 
-  float: left;
+  float: left;  
+  border: black 10px dashed;
 } 
 
 #piedepagina{ 
@@ -27,7 +29,9 @@
   margin-top: 20px;
   background-color: aquamarine;  
   padding: 10px 10px ;
-  float: left;
+  float: left;  
+  border: black 10px dashed; 
+
 } 
 
 

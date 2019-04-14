@@ -1,0 +1,48 @@
+h1{  
+    color: crimson; 
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    line-height: 50px; 
+    font-size: 20px;  
+ 
+ }   
+
+ dt strong i{  
+     color: brown;  
+     font-family:Georgia, 'Times New Roman', Times, serif; 
+     line-height: 50px; 
+     font-size: 20px;
+ } 
+
+ .estilo{  
+     color: crimson; 
+     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+     line-height: 50px; 
+     font-size: 20px;
+ }
+ 
+ .estilo2{ 
+    color: coral; 
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+    line-height: 50px; 
+    font-size: 20px;
+ } 
+
+
+ #tabla{ 
+    color:midnightblue; 
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+    line-height: 20px; 
+    font-size: 20px;
+ }
+ 
+ body{ 
+   background-image: url("../images/historiaapple.png");
+   margin:0.5in;
+   } 
+
+.pie{ 
+      color:lightseagreen;   
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      line-height: 50px;   
+      font-size: 20px;
+  }

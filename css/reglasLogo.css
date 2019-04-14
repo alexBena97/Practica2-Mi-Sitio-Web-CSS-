@@ -1,0 +1,32 @@
+
+#titulo{ 
+    color: crimson; 
+    line-height: 50px;   
+    font-size: 20px;
+} 
+
+p#color{ 
+    color:darkgreen; 
+    line-height: 50px;   
+    font-size: 20px;
+} 
+
+p{ 
+   word-spacing: 3mm; 
+}
+
+footer{ 
+    font-size: 90%;
+}
+
+body{ 
+    background-image: url("../images/historiaLogo.png");
+    margin:0.5in;
+    }  
+
+.pie{ 
+    color:lightseagreen;    
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    line-height: 50px;   
+    font-size: 20px;
+}

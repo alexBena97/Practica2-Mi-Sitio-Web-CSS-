@@ -1,0 +1,35 @@
+h1{ 
+    color: cornflowerblue; 
+    text-decoration: underline; 
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+    line-height: 50px;   
+    font-size: 20px; 
+}
+
+.titulos{ 
+    color: blue; 
+    text-decoration: underline; 
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+    line-height: 50px;   
+    font-size: 20px;
+} 
+
+.diferencias{ 
+    color:maroon; 
+    text-decoration:unset; 
+    font-family: cursive;
+    line-height: 50px;   
+    font-size: 20px;
+} 
+
+.pie{ 
+    color:lightseagreen;   
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    line-height: 50px;   
+    font-size: 20px;
+} 
+
+body{ 
+    background-image: url("../images/AndroidvsApple.png");
+    margin:0.5in; 
+}

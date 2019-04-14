@@ -1,0 +1,48 @@
+h1{  
+   color: crimson; 
+   font-family:Georgia, 'Times New Roman', Times, serif;
+   line-height: 50px;   
+   font-size: 20px;
+} 
+
+h2{ 
+   color: blue; 
+   font-family:Georgia, 'Times New Roman', Times, serif;
+   line-height: 50px;   
+   font-size: 20px;
+} 
+
+h3{ 
+   color: darkgoldenrod; 
+   font-family:Georgia, 'Times New Roman', Times, serif;
+   line-height: 50px;  
+   font-size: 20px;
+}   
+
+p{ 
+  color: darkblue; 
+  font-family: 'Times New Roman', Times, serif;
+  line-height: 50px;   
+  font-size: 20px;
+}
+
+p a{  
+   color: darkblue; 
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; 
+   font-size: 15px;
+}  
+
+body{ 
+   background-image: url("../images/fotoApple.png");
+   margin:0.5in;
+} 
+
+.pie{ 
+   color:lightseagreen;   
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   line-height: 50px;   
+   font-size: 20px;
+}
+
+
+

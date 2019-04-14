@@ -1,8 +1,8 @@
 #navegacion{
-    width: 20%; 
+    width: 15%; 
     background-color: aquamarine;  
     padding: 20px 20px 20px 20px;
-    float:left;  
+    float:left;   
     
 } 
 
@@ -11,7 +11,8 @@
     background-color: aquamarine; 
     padding: 20px 20px 20px 20px;
     margin-left: 20px;
-    float:left;
+    float:left;  
+    border: black 10px dashed;
 }  
 
 /*#aparte{ 
@@ -25,7 +26,13 @@
   margin-top: 20px;
   background-color: aquamarine;  
   padding: 10px 10px ;
-  float: left;
+  float: left;  
+  border-width:10px;
+  border-top-style: groove;  
+  border-bottom-style: groove; 
+  border-right-style: groove;  
+  border-left-style: groove; 
+  border: black 10px dashed;
 } 
 
 
@@ -38,7 +45,4 @@
  width: 500px; 
  height: 300px;
 }
-body{ 
-background-image: url("../images/fotoApple.png");
-margin:0.5in;
-}
+
